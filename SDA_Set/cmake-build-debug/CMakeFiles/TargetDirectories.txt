@@ -1,0 +1,3 @@
+C:/Users/Andrei/Desktop/UBB/SDA_Set/cmake-build-debug/CMakeFiles/SDA_Set.dir
+C:/Users/Andrei/Desktop/UBB/SDA_Set/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrei/Desktop/UBB/SDA_Set/cmake-build-debug/CMakeFiles/rebuild_cache.dir

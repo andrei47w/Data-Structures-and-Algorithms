@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andrei/Desktop/UBB/SDA_Set/Set.h
+
+C:/Users/Andrei/Desktop/UBB/SDA_Set/SetIterator.cpp
+SetIterator.h
+C:/Users/Andrei/Desktop/UBB/SDA_Set/SetIterator.h
+Set.h
+C:/Users/Andrei/Desktop/UBB/SDA_Set/Set.h
+exception
+-
+iostream
+-
+
+C:/Users/Andrei/Desktop/UBB/SDA_Set/SetIterator.h
+Set.h
+C:/Users/Andrei/Desktop/UBB/SDA_Set/Set.h
+

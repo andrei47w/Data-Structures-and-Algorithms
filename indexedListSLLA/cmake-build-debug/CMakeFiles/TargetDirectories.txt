@@ -1,0 +1,3 @@
+C:/Users/Andrei/Desktop/indexedListSLLA/cmake-build-debug/CMakeFiles/indexedListSLLA.dir
+C:/Users/Andrei/Desktop/indexedListSLLA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrei/Desktop/indexedListSLLA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

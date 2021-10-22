@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andrei/Desktop/SortedBag/SortedBag.cpp
+iostream
+-
+SortedBag.h
+C:/Users/Andrei/Desktop/SortedBag/SortedBag.h
+SortedBagIterator.h
+C:/Users/Andrei/Desktop/SortedBag/SortedBagIterator.h
+
+C:/Users/Andrei/Desktop/SortedBag/SortedBag.h
+
+C:/Users/Andrei/Desktop/SortedBag/SortedBagIterator.h
+SortedBag.h
+C:/Users/Andrei/Desktop/SortedBag/SortedBag.h
+

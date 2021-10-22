@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andrei/Downloads/Bag/Bag.h
+utility
+-
+
+C:/Users/Andrei/Downloads/Bag/BagIterator.h
+Bag.h
+C:/Users/Andrei/Downloads/Bag/Bag.h
+
+C:/Users/Andrei/Downloads/Bag/ExtendedTest.cpp
+assert.h
+-
+Bag.h
+C:/Users/Andrei/Downloads/Bag/Bag.h
+ExtendedTest.h
+C:/Users/Andrei/Downloads/Bag/ExtendedTest.h
+BagIterator.h
+C:/Users/Andrei/Downloads/Bag/BagIterator.h
+iostream
+-
+vector
+-
+exception
+-
+
+C:/Users/Andrei/Downloads/Bag/ExtendedTest.h
+

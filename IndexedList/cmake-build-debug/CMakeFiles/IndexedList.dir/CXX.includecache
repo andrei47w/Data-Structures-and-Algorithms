@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/SDA/IndexedList/IndexedList.cpp
+exception
+-
+iostream
+-
+IndexedList.h
+E:/SDA/IndexedList/IndexedList.h
+ListIterator.h
+E:/SDA/IndexedList/ListIterator.h
+
+E:/SDA/IndexedList/IndexedList.h
+
+E:/SDA/IndexedList/ListIterator.h
+IndexedList.h
+E:/SDA/IndexedList/IndexedList.h
+Node.h
+E:/SDA/IndexedList/Node.h
+
+E:/SDA/IndexedList/Node.h
+

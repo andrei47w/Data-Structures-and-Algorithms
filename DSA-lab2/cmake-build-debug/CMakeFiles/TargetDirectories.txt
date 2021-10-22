@@ -1,0 +1,3 @@
+C:/Users/Andrei/Desktop/DSA-lab2/cmake-build-debug/CMakeFiles/DSA_lab2.dir
+C:/Users/Andrei/Desktop/DSA-lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrei/Desktop/DSA-lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

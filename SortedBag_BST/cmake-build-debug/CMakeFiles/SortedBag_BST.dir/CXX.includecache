@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andrei/Desktop/SortedBag_BST/ExtendedTest.cpp
+ShortTest.h
+C:/Users/Andrei/Desktop/SortedBag_BST/ShortTest.h
+SortedBag.h
+C:/Users/Andrei/Desktop/SortedBag_BST/SortedBag.h
+SortedBagIterator.h
+C:/Users/Andrei/Desktop/SortedBag_BST/SortedBagIterator.h
+assert.h
+-
+iostream
+-
+exception
+-
+
+C:/Users/Andrei/Desktop/SortedBag_BST/ShortTest.h
+
+C:/Users/Andrei/Desktop/SortedBag_BST/SortedBag.cpp
+iostream
+-
+SortedBag.h
+C:/Users/Andrei/Desktop/SortedBag_BST/SortedBag.h
+SortedBagIterator.h
+C:/Users/Andrei/Desktop/SortedBag_BST/SortedBagIterator.h
+
+C:/Users/Andrei/Desktop/SortedBag_BST/SortedBag.h
+utility
+-
+
+C:/Users/Andrei/Desktop/SortedBag_BST/SortedBagIterator.h
+SortedBag.h
+C:/Users/Andrei/Desktop/SortedBag_BST/SortedBag.h
+stack
+-
+
